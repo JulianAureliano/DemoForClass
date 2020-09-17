@@ -1,4 +1,4 @@
 def firstFunc():
-	print("hello")
+	print("goodbye")
 
 firstFunc()
